@@ -1,0 +1,12 @@
+{
+    "description": "STM32U5 Cube Framework",
+    "keywords": [
+      "framework",
+      "hal",
+      "stm32",
+      "st"
+    ],
+    "name": "framework-stm32cubeu5",
+    "version": "1.6",
+    "homepage": "https://github.com/STMicroelectronics/STM32CubeU5.git"
+  }
